@@ -158,7 +158,7 @@ act_regulators:  >-
 act_share: >-
   <strong>Teile diese Seite.</strong> Setze einen Link zu <a href="https://keepandroidopen.org">keepandroidopen.org</a> überall.
 act_astroturf: >-
-  <strong>Wehre Dich gegen Astroturfer.</strong> Die "Nun ja, eigentlich ..."-Fraktion ist zahlreich vertreten. Lasse Dir nicht von ihnen nicht die Deutungshoheit geben.
+  <strong>Wehre Dich gegen Astroturfer.</strong> Die "Nun ja, eigentlich ..."-Fraktion ist zahlreich vertreten. Lasse nicht zu, dass sie die Deutungshoheit übernehmen.
 act_petition: >-
   <strong><a href="https://www.change.org/p/stop-google-from-limiting-apk-file-usage/" target="_blank">Unterzeichne die Petition &#8599;</a></strong> und schließe Dich den über 100.000 Unterzeichnenden an, die ihre Stimme erhoben haben.
 act_letter: >-
@@ -256,7 +256,7 @@ footer_help_translate: "Hilf mit beim Übersetzen"
 site_disclaimer: "**Haftungsausschluss:** Diese Website ist ein gemeinschaftlich getragenes, nichtkommerzielles Projekt. Sie dient ausschließlich Informations- und Bildungszwecken."
 site_privacy: "**Datenschutz:** Diese Website verwendet keine Cookies und führt keine Benutzerverfolgung oder Protokollierung durch."
 site_copyright: "**Urheberrecht:** Keines. Dieses Werk ist gekennzeichnet"
-contact_header: "Kontact"
+contact_header: "Kontakt"
 contact_email: "E-Mail"
 site_problems_header: "Probleme"
 site_report_issues: "Probleme auf der Website melden"
