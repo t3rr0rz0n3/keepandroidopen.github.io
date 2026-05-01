@@ -246,4 +246,13 @@ footer_report_issues: "Informa de problemes"
 footer_translations: "Traduccions"
 footer_languages: "Anglès (+ 30 idiomes)"
 footer_help_translate: "Ajuda a traduir"
+
 # Shared site strings (also used by CTA/footer on other pages)
+site_disclaimer: "**Avís legal:** Aquest lloc web és una iniciativa comunitària sense ànim de lucre. S'utilitza exclusivament amb finalitats informatives i educatives."
+site_privacy: "**Privadesa:** Aquest lloc no utilitza galetes ni realitza cap seguiment ni registre d'usuaris."
+site_copyright: "**Copyright:** Cap. Aquesta obra està marcada"
+contact_header: "Contacte"
+contact_email: "Correu electrònic"
+site_problems_header: "Problemes"
+site_report_issues: "Informar de problemes del lloc"
+open_letter_cta: "Llegeix la nostra carta oberta en contra del programa de verificació de desenvolupadors d'Android"
