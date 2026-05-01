@@ -85,7 +85,7 @@ what_pullquote: "Si un desenvolupador no compleix, les seves aplicacions es bloq
 impact_heading: "A qui perjudica"
 impact_you_heading: "Tu"
 impact_you_p1: "Vas comprar un telèfon Android perquè Google deia que era obert. Podies instal·lar el que volguessis, i aquest era l'acord."
-impact_you_p2: "Google està reescrivint aquest acord de manera retroactiva en el maquinari que ja tens. Després de l'actualització, només podràs executar programari que Google hagi aprovat prèviament. Al teu telèfon: *la teva* propietat, que *tu* has pagat.
+impact_you_p2: "Google està reescrivint aquest acord de manera retroactiva en el maquinari que ja tens. Després de l'actualització, només podràs executar programari que Google hagi aprovat prèviament. Al teu telèfon: *la teva* propietat, que *tu* has pagat."
 impact_dev_heading: "Desenvolupadors independents"
 impact_dev_p1: "La primera app d'un adolescent, una eina de privadesa creada per voluntaris o una beta interna confidencial. No importa. Després del setembre de 2026, cap d'aquestes es podrà instal·lar sense el vistiplau de Google."
 impact_dev_p2: "[F-Droid](https://f-droid.org), que allotja milers d’aplicacions lliures i de codi obert, ho ha qualificatcom una [\"amenaça existencial\"](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html). Cory Doctorow ho anomena [\"Darth Android\"](https://pluralistic.net/2025/09/01/fulu/)."
@@ -113,7 +113,7 @@ precedent_heading: "Això va més enllà d'Android"
 precedent_pullquote: "Si Google pot bloquejar retroactivament milers de milions de dispositius venuts com a oberts, tots els fabricants del món estan observant."
 precedent_p1: "El principi que s’estableix: **la companyia que fabrica el dispositiu decideix, després de comprar-lo, quin programari pots executar.** En programari això s'anomena \"aixecar la catifa\" (en anglès 'rug pull'); però almenys podies instal·lar alternatives. En maquinari és un fet consumat que et deixa sense control."
 precedent_p2: "L'obertura d’Android no era només una característica. Era una promesa. Google ara la revoca unilateralment"
-precedent_arstechnica: "[Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): \"L'enveja d'Apple per part de Google amenaça amb desmantellar el llegat obert d’Android.\"
+precedent_arstechnica: "[Ars Technica](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/): \"L'enveja d'Apple per part de Google amenaça amb desmantellar el llegat obert d’Android.\""
 
 # Objections
 objections_heading: "Però espera, això no és..."
